@@ -35,3 +35,16 @@ body {
     width: 25%;
     background-color: red;
 }
+img {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+#tekst{
+ color: aliceblue; 
+ text-align: center;  
+}
+h2,ul{
+ text-align: center;   
+ align-content: center;
+}
